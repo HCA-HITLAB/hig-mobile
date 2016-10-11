@@ -1,5 +1,6 @@
-# hig-mobile
+# hig-mobile (Sketch UI Kit)
 Human Interface Guidelines for HCA's ITS Mobile Lab (HITLAB)
+- iOS Devices only.
 
 ## Overview
 
